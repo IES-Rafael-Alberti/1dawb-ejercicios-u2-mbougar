@@ -6,7 +6,7 @@ def repeat_Word(word: str, numberTimes: int):
     newWord = ""
     for i in range(0, numberTimes):
         newWord += word
-        if i != numberTimes:
+        if i != numberTimes-1:
             newWord += "\n"
     return newWord
 
