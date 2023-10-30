@@ -16,10 +16,9 @@ def cadena_Numeros(numero: int):
     for i in range(1, numero+1):
         if i % 2 != 0:
             numeroStr += str(i)
-            if i != numero:
+            if i != numero and i != numero-1:
                 numeroStr += ", "
-            else:
-                numeroStr += "."
+    numeroStr += "."
     return numeroStr
 
 
