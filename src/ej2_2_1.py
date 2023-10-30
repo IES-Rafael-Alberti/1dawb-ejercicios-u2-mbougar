@@ -2,7 +2,7 @@ def repetir_Palabra(palabra: str, veces: int):
     nuevaPalabra = ""
     for i in range(0,veces):
         nuevaPalabra += palabra
-        if i != veces:
+        if i != veces-1:
             nuevaPalabra += " "
     return nuevaPalabra
 
