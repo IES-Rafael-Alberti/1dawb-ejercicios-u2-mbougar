@@ -1,4 +1,4 @@
-from src.ej2_2_3 import cadena_Numeros, comprobar_Numero
+from src.ej2_2_03 import cadena_Numeros, comprobar_Numero
 import pytest
 
 
