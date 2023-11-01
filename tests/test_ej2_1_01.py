@@ -1,4 +1,4 @@
-from src.ej2_1_1 import repeat_Word
+from src.ej2_1_01 import repeat_Word
 import pytest
 
 
