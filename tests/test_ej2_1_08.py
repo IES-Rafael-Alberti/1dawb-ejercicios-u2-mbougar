@@ -1,4 +1,4 @@
-from src.ej2_1_8 import calcular_Rendimiento , comprobar_Puntuacion
+from src.ej2_1_08 import calcular_Rendimiento , comprobar_Puntuacion
 import pytest
 
 
