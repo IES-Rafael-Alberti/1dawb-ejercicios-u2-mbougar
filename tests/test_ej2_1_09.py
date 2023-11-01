@@ -1,4 +1,4 @@
-from src.ej2_1_9 import asignar_Precio
+from src.ej2_1_09 import asignar_Precio
 import pytest
 
 
