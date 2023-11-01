@@ -1,4 +1,4 @@
-from src.ej2_2_1 import repetir_Palabra
+from src.ej2_2_01 import repetir_Palabra
 import pytest
 
 
