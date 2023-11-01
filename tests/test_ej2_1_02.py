@@ -1,4 +1,4 @@
-from src.ej2_1_2 import check_Password_Attempt
+from src.ej2_1_02 import check_Password_Attempt
 import pytest
 
 
