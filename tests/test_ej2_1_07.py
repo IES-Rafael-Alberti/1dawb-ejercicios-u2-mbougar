@@ -1,4 +1,4 @@
-from src.ej2_1_7 import comprobar_Renta
+from src.ej2_1_07 import comprobar_Renta
 import pytest
 
 
