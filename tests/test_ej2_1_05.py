@@ -1,4 +1,4 @@
-from src.ej2_1_5 import comprobar_Edad, comprobar_Ingresos, comprobar_Tributa
+from src.ej2_1_05 import comprobar_Edad, comprobar_Ingresos, comprobar_Tributa
 import pytest
 
 
