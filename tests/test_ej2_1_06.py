@@ -1,4 +1,4 @@
-from src.ej2_1_6 import comprobar_Nombre, comprobar_Sexo
+from src.ej2_1_06 import comprobar_Nombre, comprobar_Sexo
 import pytest
 
 
